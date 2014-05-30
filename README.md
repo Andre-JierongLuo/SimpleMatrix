@@ -1,1 +1,1 @@
-do matrix operations
+matrix class with basic operations
